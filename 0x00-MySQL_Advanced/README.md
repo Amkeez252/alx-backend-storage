@@ -3,7 +3,7 @@
 **Back-end SQL & MySQL**
 
 ## Advanced SQL
-### Resources;books:
+### Resources:books:
 **Read or watch**
 * [MySQL cheatsheet](https://devhints.io/mysql)
 * [MySQL Performance: How To Leverage MySQL Database Indexing](https://www.liquidweb.com/kb/mysql-optimization-how-to-leverage-mysql-database-indexing/)
